@@ -2,4 +2,3 @@
 
 ![Alt text](./HappinessInTheWorld.PNG "appinessInTheWorld")
 
-![Alt text](./TheRecipeForHappiness.html "appinessInTheWorld")
